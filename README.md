@@ -7,8 +7,7 @@ Used in App : </br>
 2 - Recyclerview </br>
 2 - Material dialog </br>
 ScreenShot : </br>
-![device-2019-04-05-154644](https://user-images.githubusercontent.com/12888482/55632325-5dc16600-57ba-11e9-92f6-112fc5837722.png)
-![device-2019-04-05-154626](https://user-images.githubusercontent.com/12888482/55632463-a7aa4c00-57ba-11e9-94d1-83bcb21a8287.png)
-![device-2019-04-05-154536](https://user-images.githubusercontent.com/12888482/55632475-af69f080-57ba-11e9-85ed-12d9eb050d47.png)
-![device-2019-04-05-154602](https://user-images.githubusercontent.com/12888482/55632510-c1e42a00-57ba-11e9-9c1c-852bdfc916e6.png)
-
+![Screenshot_2020-06-20-18-14-24](https://user-images.githubusercontent.com/12888482/85206408-4c626c00-b322-11ea-9ae1-69ecd5ee363e.png)
+![Screenshot_2020-06-20-18-02-02](https://user-images.githubusercontent.com/12888482/85206435-7156df00-b322-11ea-8551-8805115b235c.png)
+![Screenshot_2020-06-20-17-55-36](https://user-images.githubusercontent.com/12888482/85206445-79168380-b322-11ea-935f-e65107a4b650.png)
+![Screenshot_2020-06-20-17-55-15](https://user-images.githubusercontent.com/12888482/85206452-85024580-b322-11ea-9814-014ded0758b0.png)
