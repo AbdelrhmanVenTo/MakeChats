@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "12513158508",
+    "firebase_url": "https://makechatsapp.firebaseio.com",
+    "project_id": "makechatsapp",
+    "storage_bucket": "makechatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12513158508:android:22757e6b637a3122",
+        "android_client_info": {
+          "package_name": "com.example.makechatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12513158508-r4q8m480fv40nm7j101h8nkgopq41dep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.makechatsapp",
+            "certificate_hash": "d746e9a81451af14daf5f8d90e20155aa0dae6e1"
+          }
+        },
+        {
+          "client_id": "12513158508-arn97l0chepqrek8bs3tigof6cp6vurh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFZRm4Y3z2FCH1DwrmEAEoapDvsIJlqN0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12513158508-arn97l0chepqrek8bs3tigof6cp6vurh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
